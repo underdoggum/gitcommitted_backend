@@ -10,12 +10,13 @@ You can run this seeder in order to generate users.
 from masoniteorm.seeds import Seeder
 
 from app.User import User
-from config.factories import factory
+# from config.factories import factory
 
 
 class UserTableSeeder(Seeder):
     def run(self):
-        """
-        Run the database seeds.
-        """
-        factory(User, 50).create()
+        User.create({ "username": "admin", "password": "admin" })
+        # """
+        # Run the database seeds.
+        # """
+        # factory(User, 50).create()
