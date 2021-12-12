@@ -48,13 +48,15 @@ class TimeblockController(Controller):
 
     def createReminder(self):
         text = self.request.input("text")
-        reminder = Reminder.create({ "text": text })
+        category = self.request.input("category")
+        reminder = Reminder.create({ "text": text, "category": category })
         return reminder
 
     def updateReminder(self):
         id = self.request.param("id")
         text = self.request.input("text")
-        Reminder.where("id", id).update({ "text": text })
+        category = self.request.input("category")
+        Reminder.where("id", id).update({ "text": text, "category": category })
         return Reminder.where("id", id).get()
 
     def destroyReminder(self):
