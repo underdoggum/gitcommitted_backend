@@ -9,7 +9,7 @@ ROUTES = [
         Get("/@id", "TimeblockController@showTimeblock").name("showTimeblock"),
         Post("/", "TimeblockController@createTimeblock").name("createTimeblock"),
         Put("/@id", "TimeblockController@updateTimeblock").name("updateTimeblock"),
-        Delete("/@id", "TimeblockController@destroyTimeblock").name("destroyTimeblock"),
+        # Delete("/@id", "TimeblockController@destroyTimeblock").name("destroyTimeblock"),
     ], prefix = "/timeblocks", name = "timeblocks"),
 
     RouteGroup([

@@ -321,3 +321,45 @@
 2021-12-12 04:55:52 - WARNING - Python-dotenv could not parse statement starting at line 26
 2021-12-12 04:55:52 - INFO - "GET /timeblocks HTTP/1.1" 200 500
 2021-12-12 04:55:52 - INFO - "GET /reminders HTTP/1.1" 200 514
+2021-12-12 18:31:07 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-12 18:31:07 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-12 18:31:07 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-12 18:31:07 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-12 18:31:07 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-12 18:31:07 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-12 18:31:07 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-12 18:31:17 - INFO - "GET / HTTP/1.1" 200 1219
+2021-12-12 18:31:17 - INFO - "GET /static/style.css HTTP/1.1" 304 0
+2021-12-12 18:31:45 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-12 18:31:45 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-12 18:31:45 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-12 18:31:45 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-12 18:31:45 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-12 18:31:45 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-12 18:31:45 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-12 18:31:17 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-12 18:31:17 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-12 18:31:17 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-12 18:31:17 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-12 18:31:17 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-12 18:31:17 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-12 18:31:17 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-12 18:31:17 - INFO - "GET /reminders HTTP/1.1" 200 574
+2021-12-12 18:31:17 - INFO - "GET /reminders HTTP/1.1" 200 574
+2021-12-12 18:31:17 - INFO - "GET /timeblocks HTTP/1.1" 200 2
+2021-12-12 20:14:35 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-12 20:14:35 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-12 20:14:35 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-12 20:14:35 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-12 20:14:35 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-12 20:14:35 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-12 20:14:35 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-12 18:31:17 - INFO - "GET /timeblocks HTTP/1.1" 200 500
+2021-12-12 20:18:50 - WARNING - Python-dotenv could not parse statement starting at line 19
+2021-12-12 20:18:50 - WARNING - Python-dotenv could not parse statement starting at line 21
+2021-12-12 20:18:50 - WARNING - Python-dotenv could not parse statement starting at line 22
+2021-12-12 20:18:50 - WARNING - Python-dotenv could not parse statement starting at line 23
+2021-12-12 20:18:50 - WARNING - Python-dotenv could not parse statement starting at line 24
+2021-12-12 20:18:50 - WARNING - Python-dotenv could not parse statement starting at line 25
+2021-12-12 20:18:50 - WARNING - Python-dotenv could not parse statement starting at line 26
+2021-12-12 18:31:17 - INFO - "GET /reminders HTTP/1.1" 200 1263

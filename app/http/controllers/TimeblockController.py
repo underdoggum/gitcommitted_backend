@@ -31,11 +31,11 @@ class TimeblockController(Controller):
         Timeblock.where("id", id).update({ "title": title })
         return Timeblock.where("id", id).get()
 
-    def destroyTimeblock(self):
-        id = self.request.param("id")
-        timeblock = Timeblock.where("id", id).get()
-        Timeblock.where("id", id).delete()
-        return timeblock
+    # def destroyTimeblock(self):
+    #     id = self.request.param("id")
+    #     timeblock = Timeblock.where("id", id).get()
+    #     Timeblock.where("id", id).delete()
+    #     return timeblock
 
 
     ## for Reminders

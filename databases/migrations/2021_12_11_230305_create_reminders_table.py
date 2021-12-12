@@ -11,6 +11,7 @@ class CreateRemindersTable(Migration):
         with self.schema.create("reminders") as table:
             table.increments("id")
             table.string("text")
+            table.integer("category")
             table.timestamps()
 
     def down(self):
