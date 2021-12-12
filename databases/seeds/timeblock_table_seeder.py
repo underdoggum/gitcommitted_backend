@@ -6,6 +6,8 @@ from app.Timeblock import Timeblock
 
 class TimeblockTableSeeder(Seeder):
     def run(self):
+        # Re-seed in case data is compromised
+        Timeblock.delete()
         Timeblock.create({ "title": "Projects/New Tech" })
         Timeblock.create({ "title": "Networking" })
         Timeblock.create({ "title": "Coding Challenges" })
