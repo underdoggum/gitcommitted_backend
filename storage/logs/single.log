@@ -383,3 +383,6 @@
 2021-12-12 22:50:58 - WARNING - Python-dotenv could not parse statement starting at line 26
 2021-12-12 22:50:58 - INFO - "POST /reminders HTTP/1.1" 200 129
 2021-12-12 22:50:58 - INFO - "GET /reminders HTTP/1.1" 200 1392
+2021-12-12 22:50:58 - INFO - "GET /reminders HTTP/1.1" 200 1392
+2021-12-12 22:50:58 - INFO - "PUT /reminders/9 HTTP/1.1" 200 128
+2021-12-12 22:50:58 - INFO - "GET /reminders HTTP/1.1" 200 1391
